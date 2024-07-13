@@ -11,3 +11,7 @@ This game based on gorka games tutorial and I modified some of it. It includes s
 
 I noticed that Wave Spawner blueprint and its public variables (Spawn Location) is relative to its parent location.
 So it is not in the world location, please be aware of it. \*added to my personal notes notion
+
+# Git LFS
+
+This also my first time using LFS. Kindly to reuse the .gitattributes file to make it work on push and also create .gitignore template when creating new repository.
